@@ -6,5 +6,6 @@ public class main {
         Dog Roza = new Dog("Roza");
         Book Neuromancer = new Book("Neuromancer");
         Ball Basketball = new Ball(4);
+
     }
 }
