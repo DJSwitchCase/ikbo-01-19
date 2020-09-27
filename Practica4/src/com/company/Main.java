@@ -1,4 +1,4 @@
-package com.company;
+package src.com.company;
 import javax.swing.*;
 import java.awt.*;
 class Practica4 extends JFrame
@@ -15,8 +15,9 @@ class Practica4 extends JFrame
             jtest.setFont(fonttest);
             setVisible(true);
         }
-        public static void main(String[] args)
-        {
-         new Practica4();
-        }
+
+    public static void main(String[] args) {
+        new Practica4();
+    }
+
 }
