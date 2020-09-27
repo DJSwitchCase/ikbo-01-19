@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d257b56-01cc-4168-ae34-7456211518bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Laba4Animals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laba4Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laba4Planets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nameable.java" beforeDir="false" />
-    </list>
+    <list default="true" id="3d257b56-01cc-4168-ae34-7456211518bd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TestCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="68">
+              <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -363,8 +358,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="68">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
