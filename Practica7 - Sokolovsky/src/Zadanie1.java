@@ -1,7 +1,6 @@
 import java.util.*;
 
-public class m {
-//Карты перечислены не сверху вниз, а снизу вверх, потому что в противном случае мне придётся использовать методы библиотеки Vector, наследуемые Stack (LastElement()), а не "свои" методы Stack'а.
+public class Zadanie1 {
     public static void d (Stack x)
     {
         System.out.println(x);
