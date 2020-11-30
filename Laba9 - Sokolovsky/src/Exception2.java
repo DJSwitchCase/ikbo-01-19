@@ -18,6 +18,9 @@ public class Exception2 {
         {
             System.out.println("На ноль делить нельзя!");
         }
+        finally {
+            System.out.println("Привет!");
+        }
     }
 
     public static void main(String[] args) {
