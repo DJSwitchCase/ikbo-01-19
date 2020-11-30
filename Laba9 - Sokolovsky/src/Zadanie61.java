@@ -30,10 +30,22 @@ public class Zadanie61
             }
             return "data for " + key;
         }
+        static void test()
+        {
+            for (int i =0; i<5; i++) {
+                System.out.println(i);
+                if(i<=1)
+                return;
+                System.out.println(i);
+            }
+            System.out.println("privet");
+        }
 
     public static void main(String[] args) {
-        Zadanie61 z = new Zadanie61();
-        z.getKey();
+        //Zadanie61 z = new Zadanie61();
+        //z.getKey();
+        test();
+
     }
 }
 
