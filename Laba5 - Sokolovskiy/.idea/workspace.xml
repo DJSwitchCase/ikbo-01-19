@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4320b3c7-a4fb-4c51-bd26-acff571db138" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oval1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laba5 - Sokolovsky/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laba5 - Sokolovsky/src/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laba5 - Sokolovsky/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba5 - Sokolovsky/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laba5 - Sokolovsky/src/Zadanie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba5 - Sokolovsky/src/Zadanie1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practica5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practica5/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4320b3c7-a4fb-4c51-bd26-acff571db138" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Line.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -142,6 +129,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practica5" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -185,11 +173,18 @@
       <option name="presentableId" value="Default" />
       <updated>1607191617026</updated>
     </task>
+    <task id="LOCAL-00001" summary="421214421">
+      <created>1607207097683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607207097683</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -204,7 +199,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32998884" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -218,6 +213,10 @@
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="421214421" />
+    <option name="LAST_COMMIT_MESSAGE" value="421214421" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -447,8 +446,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Line.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
