@@ -1,6 +1,6 @@
 public class PhoneNumber {
 
-    public static String handler(String number){
+    public static String fix(String number){
         if(number.charAt(0) == '8')
             number = rusify(number);
         number = normalize(number);
