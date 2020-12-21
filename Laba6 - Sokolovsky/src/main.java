@@ -14,11 +14,11 @@ public class main extends JFrame {
         JButton btn = new JButton("alo");
 
         panel.add(btn);
-        panel.add(new JButton("Privet"));
-        panel.add(new JButton("Poka"));
-        panel.add(new JButton("Zdarova seriy"));
-        panel.add(new JButton("Centre"));
-        panel.add((new LineBorder(Color.ORANGE, 4), "LineBorder"));
+        panel.add(new JButton("1"));
+        panel.add(new JButton("2"));
+        panel.add(new JButton("3"));
+        panel.add(new JButton("4"));
+        panel.add((new LineBorder(Color.ORANGE, 1), "LineBorder"));
         System.out.println(getContentPane().getComponentCount());
         setDefaultCloseOperation(EXIT_ON_CLOSE);
 
